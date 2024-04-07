@@ -2,6 +2,13 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
   }
+
+  
+
+  input[type="text"]{
+    display: block;
+  }
+
   .calculator {
     max-width: 400px;
     margin: 50px auto;
